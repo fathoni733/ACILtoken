@@ -26,5 +26,6 @@ MIT © 2025 ACIL Project
 ## Links
 - Website: `....`
 - Twitter: 'https://x.com/ACILtoken'
-- Telegram: `https://t.me/+BTmSqeTi3y9jODU1`
+- Telegram:
+- 'https://t.me/+BTmSqeTi3y9jODU1'
 - Discord: `....`
