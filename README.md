@@ -1,6 +1,6 @@
 # ACIL
 #ACILtoken
-LOGO: 'https://raw.githubusercontent.com/fathoni733/ACILtoken/refs/heads/main/ACIL.png'
+LOGO: '![ACIL Logo](https://raw.githubusercontent.com/fathoni733/ACILtoken/refs/heads/main/ACIL.png)'
 
 ACIL is a small, cheerful crypto token designed for beginners and the community that loves experimenting with trading in a fun, low-risk way.
 
