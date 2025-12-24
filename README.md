@@ -1,52 +1,88 @@
-# 🚀 ACIL ($ACIL)
+# 🌱 ACIL — A Small Experiment Built in Public
 
 ![ACIL Logo](https://raw.githubusercontent.com/fathoni733/ACILtoken/main/ACIL.png)
 
-👋 **Welcome to ACIL!**  
-A tiny **experimental meme token** on **BNB Chain (BSC)** — built for **learning, fun, and community growth**.
+**ACIL** is a small experimental project created by a beginner developer to **learn, explore, and document a Web3 journey in public**.
+
+No hype. No promises. Just learning by doing.
 
 ---
 
-## 🌟 About the Project
-- Created by a **beginner developer** exploring crypto by building in public.  
-- **No VC backing, no paid marketing, no promises of profit.**  
-- Designed as a **long-term meme token experiment** — aiming to **survive and grow like established meme coins**.  
-- Focused on **community, transparency, and fun**.
+## 🧠 What Is ACIL?
+ACIL started as a **tiny meme token on BNB Chain**, but the idea is bigger than the token itself.
+
+This project is about:
+- Learning crypto & Web3 from zero  
+- Building in public  
+- Experimenting without pressure  
+- Sharing progress, mistakes, and lessons openly  
+
+ACIL is represented as a **curious little kid** exploring the Web3 world step by step.
 
 ---
 
-## 🔑 Token Info
-| Parameter       | Details |
-|-----------------|---------|
-| **Symbol**      | $ACIL   |
-| **Total Supply**| 1,000,000,000 ACIL |
-| **Chain**       | BNB Smart Chain (BSC) |
-| **Contract**    | `0x101D76aE634f8AFba9650Ba351DF94EC38bA4DC9` |
-| **Tokenomics**  | Fair launch, small supply, community-driven |
+## 🧪 Project Philosophy
+- 🚫 No VC funding  
+- 🚫 No paid marketing  
+- 🚫 No profit promises  
+- ✅ Transparency  
+- ✅ Small steps  
+- ✅ Long-term learning mindset  
+
+Growth is optional. Learning is the goal.
 
 ---
 
-## 📦 How to Participate
-- Check the contract on **BSC Explorer**  
-- Swap tokens via **[PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x101D76aE634f8AFba9650Ba351DF94EC38bA4DC9)**  
-- Join the community to **discuss, learn, and share ideas**  
+## 🔗 Token Experiment (Optional)
+ACIL includes a **token experiment** deployed on BNB Smart Chain.
+
+| Item | Info |
+|------|------|
+| Symbol | ACIL |
+| Total Supply | 1,000,000,000 |
+| Network | BNB Smart Chain (BSC) |
+| Contract | `0x101D76aE634f8AFba9650Ba351DF94EC38bA4DC9` |
+
+The token exists mainly as:
+- a learning tool  
+- a technical experiment  
+- a way to understand liquidity, deployment, and on-chain behavior  
+
+It may grow, stagnate, or disappear — all outcomes are acceptable.
 
 ---
 
-## 📡 Community & Links
-- 🧠 GitHub: [ACILtoken](https://github.com/fathoni733/ACILtoken)  
-- 🐦 Twitter/X: [@ACILtoken](https://x.com/ACILtoken)  
-- 💬 Telegram Official: [t.me/ACILtoken](https://t.me/ACILtoken)  
+## 📘 What You’ll Find in This Repository
+- Learning notes & experiments  
+- Token-related information  
+- Public progress updates  
+- Open ideas & discussions  
+
+This repository is **not a whitepaper** and **not a roadmap**.
 
 ---
 
-## ⚠️ Safety & Disclaimer
-- **Experimental project:** no guarantees or promises.  
-- Trading crypto is **risky** — always **Do Your Own Research (DYOR)**.  
+## 🌍 Community & Links
+- 🧠 GitHub: https://github.com/fathoni733/ACILtoken  
+- 🐦 Twitter / X: https://x.com/ACILtoken  
+- 💬 Telegram: https://t.me/ACILtoken  
 
 ---
 
-## 💛 Why ACIL?
-- **Learn by doing:** watch a small meme token grow.  
-- **Community-focused:** engage, share, and experiment together.  
-- **Fun & transparent:** perfect for crypto enthusiasts who enjoy small projects.
+## ⚠️ Disclaimer
+This is an **experimental personal project**.
+There are **no guarantees**, **no expectations**, and **no financial advice**.
+
+Always **Do Your Own Research (DYOR)**.
+
+---
+
+## 💛 Final Note
+ACIL is intentionally small.
+
+Sometimes the most honest projects are the ones that:
+- don’t rush  
+- don’t pretend  
+- don’t promise  
+
+If this journey resonates with you, welcome 🌱
