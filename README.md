@@ -9,7 +9,7 @@ No hype. No promises. Just learning by doing.
 ---
 
 ## 🧠 What Is ACIL?
-ACIL started as a **tiny meme token on BNB Chain**, but the idea is bigger than the token itself.
+ACIL started as a **tiny meme token on BNB Chain**, but the idea goes beyond the token itself.
 
 This project is about:
 - Learning crypto & Web3 from zero  
