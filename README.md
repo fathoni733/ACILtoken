@@ -9,13 +9,13 @@ No hype. No promises. Just learning by doing.
 ---
 
 ## 🧠 What Is ACIL?
-ACIL started as a **tiny meme token on BNB Chain**, but the idea goes beyond the token itself.
+ACIL began as a **tiny meme token experiment on BNB Chain**, but the project itself goes beyond the token.
 
-This project is about:
+At its core, ACIL is about:
 - Learning crypto & Web3 from zero  
-- Building in public  
+- Building openly in public  
 - Experimenting without pressure  
-- Sharing progress, mistakes, and lessons openly  
+- Sharing progress, mistakes, and lessons honestly  
 
 ACIL is represented as a **curious little kid** exploring the Web3 world step by step.
 
@@ -34,7 +34,7 @@ Growth is optional. Learning is the goal.
 ---
 
 ## 🔗 Token Experiment (Optional)
-ACIL includes a **token experiment** deployed on BNB Smart Chain.
+ACIL includes an **optional token experiment** deployed on BNB Smart Chain.
 
 | Item | Info |
 |------|------|
@@ -53,7 +53,7 @@ It may grow, stagnate, or disappear — all outcomes are acceptable.
 ---
 
 ## 📘 What You’ll Find in This Repository
-- Learning notes & experiments  
+- Learning notes & small experiments  
 - Token-related information  
 - Public progress updates  
 - Open ideas & discussions  
